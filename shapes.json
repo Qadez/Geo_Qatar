@@ -6,7 +6,8 @@
       "properties": {
         "elevation": 0,
         "height": 15,
-        "usage": "Med"
+        "usage": "Med",
+	 "Name" :"The Group"
       },
       "geometry": {
         "type": "Polygon",
